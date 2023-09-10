@@ -5,3 +5,4 @@ SQLAlchemy==1.4.17
 SQLAlchemy-Utils==0.37.7
 python-dotenv==0.17.1
 PyMySQL==1.0.2
+requests~=2.31.0
